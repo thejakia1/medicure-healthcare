@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "CT SCAN & MRI",
+        "info": "High definition technology of the best MRI in Bangladesh ensures attaining high resolution images of the body at a faster rate, paving the way for widespread but targeted clinical application.",
+        "description": "High definition technology of the best MRI in Bangladesh ensures attaining high resolution images of the body at a faster rate, paving the way for widespread but targeted clinical application. This is the best MRI machine which provides great imaging speed, clarity with excellent resolution and better tissue identification. Also performs the scan within half the time of the standard MRI. In addition to faster scanning time and better image quality, it offers advanced HDMR (High Definition Magnetic Resonance) providing physicians with highly detailed pictures of the body anatomy. The best MRI machine brought for the 1st time in Bangladesh also gives freedom from claustrophobic MRI scans..",
+        "img": "https://image.freepik.com/free-vector/isometric-medical-diagnostic-equipment-set-3d-illustration-computer-tomography-ct_33099-163.jpg"
+    },
+    {
+        "id": 2,
+        "name": "CARDIOLOGY",
+        "info": "The Cardiology Department of Medicure Center has gained reputation for its dynamic and innovation in the diagnosis, investigation and treatment of patients with all forms of heart diseases.",
+        "description": "The Cardiology Department of Medicure Center has gained reputation for its dynamic and innovation in the diagnosis, investigation and treatment of patients with all forms of heart diseases, both generally encountered and complex cases. We have a dedicated unit of four full-time Consultants, and a team of junior doctors, nurses, and technicians trained to the highest standard in cardiac assessment. Our specialists diagnose and manage full range of heart conditions, and we are fully equipped with state-of-the-art facilities and complete range of services – from cardiac investigations to Interventional Cardiology procedures in ultramodern Catheterization Lab (Cath Lab). Cardio-pulmonary rehabilitation program is offered to patients through our Physical Medicine & Rehabilitation Centre. The hospital offers a multidisciplinary in-patient program, and also has complete Coronary Care Unit and Cardiothoracic ICU for critical cardiac patients. For emergency patients, we have 24-hour Accident & Emergency Centre and specialized team for stabilization and treatment of the patient",
+        "img": "https://image.freepik.com/free-vector/hypertension-abstract-concept_335657-3220.jpg"
+    },
+    {
+        "id": 3,
+        "name": "ULTRASONOGRAPHY",
+        "info": "Diagnostic ultrasound, also called sonography or diagnostic medical sonography, is an imaging method that uses high-frequency sound waves to produce images of structures within your body.",
+        "description": "Diagnostic ultrasound, also called sonography or diagnostic medical sonography, is an imaging method that uses high-frequency sound waves to produce images of structures within your body. The images can provide valuable information for diagnosing and treating a variety of diseases and conditions. Most ultrasound examinations are done using an ultrasound device outside your body, though some involve placing a device inside your body.",
+        "img": "https://image.freepik.com/free-vector/linear-flat-caesarian-baby-born-surgery-ultrasonography-set-child-happy-father-pregnant-woman-medical-stuff-characters-health-care-professional-help-concept_126523-2691.jpg"
+    },
+    {
+        "id": 4,
+        "name": "GYNECOLOGY",
+        "info": "The Department of Obstetrics & Gynaecology of Medicure Center provides comprehensive services to women in the treatment and management of gynaecologic and obstetric conditions.",
+        "description": "The Department of Obstetrics & Gynaecology of Medicure Center provides comprehensive services to women in the treatment and management of gynaecologic and obstetric conditions – from routine care to complex high-risk situations. We treat variety of problems of female reproductive organs and utilize minimally invasive laparoscopic surgeries and laser surgeries. Our maternity services manage and care for women during pregnancy, childbirth and postnatal periods. The department is fully equipped with state-of-the-art Maternity Unit, which has built-in labour OT, labour rooms and Neonatal Intensive Care Unit. We also provide breast feeding counselling, as well as antenatal counselling sessions.",
+        "img": "https://image.freepik.com/free-vector/cartoon-arab-ultrasound-pregnancy-screening-concept-muslim-khaliji-doctor-woman_33099-129.jpg"
+    },
+    {
+        "id": 5,
+        "name": "HEMATOLOGY",
+        "info": "Hematology is the branch of medicine which focuses on the diagnosis and treatment of disorders of the blood and bone marrow (blood-forming tissue). Department of Hematology of Medicure Center",
+        "description": "Hematology is the branch of medicine which focuses on the diagnosis and treatment of disorders of the blood and bone marrow (blood-forming tissue). Department of Hematology of Medicure Center provides modern treatment and management for all spectrum of benign and malignant blood-related disorders including autologous bone marrow transplant (BMT). The hospital is equipped with state-of-the-art Hematology Lab, under coordination of our Hematology Consultant, through which we offer comprehensive analysis and interpretation of various hematological tests for appropriate screening, diagnosis and check-up. The Blood Bank uses cutting-edge technology and has the most secure blood transfusion policy, maintaining quality in every aspect, and capable of providing all kinds of blood components 24 hours a day.",
+        "img": "https://img.freepik.com/free-vector/chemical-blood-analysis-clinical-experiment-disease-detection-plasma-diagnostics-hematology-clinic-medical-expertise-idea-design-element-vector-isolated-concept-metaphor-illustration_335657-4023.jpg?size=338&ext=jpg"
+    },
+    {
+        "id": 6,
+        "name": "COVID-19 UNIT",
+        "info": "It is critical to the COVID-19 response that all of the information listed below is provided on a daily basis (except as indicated below) to the federal government to facilitate planning, monitoring, and resource.",
+        "description": "It is critical to the COVID-19 response that all of the information listed below is provided on a daily basis (except as indicated below) to the federal government to facilitate planning, monitoring, and resource allocation during the COVID-19 Public Health Emergency (PHE). These data will be used to inform decisions at the federal level, such as allocation of supplies, treatments, and other resources.As information is received on a complete, and daily basis, HHS and the administration can move away from a manual entry process and move toward an automated one to ultimately reduce the burden on data collection.",
+        "img": "https://img.freepik.com/free-vector/cartoon-illustration-nurse-giving-injection-man_49924-244.jpg?size=338&ext=jpg"
+    }
+]

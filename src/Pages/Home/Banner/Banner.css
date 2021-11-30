@@ -1,0 +1,21 @@
+/* .banner-img{
+    height: 700px;
+    width: 100%;
+    -webkit-filter: blur(3px);
+} */
+.bg-img{
+    background-image: url(../../../images/banner/banner1.jpg);
+    background-size: cover;
+    padding: 200px 10px;
+}
+.banner-title{
+    font-size: 4em;
+    color: rgb(32, 29, 29);
+    text-shadow: 10px;
+}
+.banner-info{
+    font-size: 15px;
+    color: rgb(32, 29, 29);
+    font-weight: 500;
+    text-shadow: 10px;
+}

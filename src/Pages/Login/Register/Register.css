@@ -1,0 +1,11 @@
+.register-container{
+    background-color: white;
+    margin: 100px 300px;
+    border: 1px;
+    border-radius: 25px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+form{
+    align-items: center;
+}
